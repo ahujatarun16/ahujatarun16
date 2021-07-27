@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahujatarun16&layout=compact&hide=html" alt="ahujatarun16" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahujatarun16&show_icons=true" alt="ahujatarun16" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahujatarun16&show_icons=true" alt="ahujatarun16" width="436"/></p>
 
 ### Languages and Tools
 
