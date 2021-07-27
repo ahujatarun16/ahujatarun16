@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Tarun Ahuja
-### A Software Engineer who is anxious about designing and writing code.
+<strong> A Software Engineer who is anxious about designing and writing code. </strong>
 
 
 
