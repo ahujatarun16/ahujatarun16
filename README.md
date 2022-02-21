@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working as Software Engineer at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
+- 🔭 I’m currently working as Associate - Senior Software Engineer at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
 
 - 🌱 I’m currently learning **React Native**
 
